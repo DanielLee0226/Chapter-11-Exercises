@@ -1,0 +1,22 @@
+---
+title: "Chapter 11 Exercise"
+output: html_notebook
+Name: Daniel Lee
+---
+
+## Problem 11.1
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+
+## Problem 11.2
+
+## Problem 11.3
+
+## Problem 11.4
+
+## Problem 11.5
