@@ -6,14 +6,31 @@ Name: Daniel Lee
 
 ## Problem 11.1
 a)
-b)
-c)
-d)
-e)
-f)
+  i) A case in Version One shows the # of babies with a particular sex and year
+
+  ii) A case in Version Two shows the # of babies of the same name of people with different sex.
+
+  iii) A case in Version Three shows the # of babies in 1912 and 2012. 
+  
+b) Version One is a narrow table and Version Two is a wide table
+
+c) sex
+
+d) Because Version One arranges data with variables that are not related. For Version Two, since female and male is set as a variable, the name of a person must include the # of babies with two different sex. For Version Three, since 1912 and 2012 are set as variable, the # of babies for 1912 and 2012 should be included for each name. 
+
+e) Because both tables have set their variables in a different way.
+
+f) year
+
 g)
+  i) sex
+  
+  ii) nbabies
+  
+  iii) Integrated into one variable
 
 ## Problem 11.2
+
 
 ## Problem 11.3
 
