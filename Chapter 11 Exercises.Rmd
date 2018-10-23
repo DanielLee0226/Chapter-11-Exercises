@@ -30,10 +30,35 @@ g)
   iii) Integrated into one variable
 
 ## Problem 11.2
+a) 
+```{r}
+Version One %>%
+  filter()
+```
+
+c) Version Two
+
+d) Translate to one of the other forms
 
 
 ## Problem 11.3
+a) A is wide / C is narrow
+
+b) B is wide / C is narrow
+
+c) Both wide
 
 ## Problem 11.4
+  When | sbp
+subject | BHO
+subject | GWB
+subject | WJC
+before | 120
+before | 115
+before | 135
+after | 160
+after | 135
+after | 145
 
 ## Problem 11.5
+
